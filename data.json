@@ -1,0 +1,21 @@
+{
+	"buttons": [
+		{ "button": { "serial": 0, "id": "bold", "icon": "B", "alt": "Bold" } },
+		{
+			"button": {
+				"serial": 1,
+				"id": "underline",
+				"icon": "U",
+				"alt": "Underline"
+			}
+		},
+		{
+			"button": {
+				"serial": 2,
+				"id": "italic",
+				"icon": "I",
+				"alt": "Italic"
+			}
+		}
+	]
+}

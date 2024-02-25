@@ -1,0 +1,26 @@
+.richTextEditorWrapper {
+	display: flex;
+	flex-flow: column nowrap;
+	gap: 0.25rem;
+	align-items: flex-start;
+
+	width: 50vw;
+	height: 80dvh;
+
+	border: 2px solid #1e1e1e;
+	border-radius: 16px;
+	background: #ffffff;
+
+	padding: 0.25rem;
+}
+
+.richTextEditor {
+	flex: 1;
+	width: 100%;
+
+	border-radius: inherit;
+	border: 2px solid #1e1e1e;
+	resize: none;
+
+	padding: 0.5rem;
+}
